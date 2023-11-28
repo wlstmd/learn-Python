@@ -1,3 +1,5 @@
+# 파이썬 맛보기
+
 name = "꼬부기"
 level = 5
 health = 800
