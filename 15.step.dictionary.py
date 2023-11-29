@@ -1,5 +1,5 @@
 # 파이썬 딕셔너리 배워보기
-play_data = {
+play_data = {  # 딕셔너리는 리스트랑 비슷 하게 여러 값을 저장 하지만 key : value 형태를 갖고 여러 값을 저장 한다
     'result': 'win',
     'champ_name': '비에고',
     'kill': 13,

@@ -1,7 +1,7 @@
 import random
 
 # def 함수
-def sum(a, b):
+def sum(a, b): # 함수는 중복되는 코드를 막기위해 사용한다
     result = a + b
     return result
 

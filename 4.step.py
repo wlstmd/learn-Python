@@ -1,7 +1,7 @@
 # 조건문 1
 distance = 250
-
-if distance >= 200:
+                     # 조건문은 코드의 제어를 담당하는 역할을 한다
+if distance >= 200:  # 조건문은 조건의 식이 참이여야 수행한다
     print("눈 던지기 ")
 else:
     print("눈사람 만들기")
